@@ -57,6 +57,8 @@ contract Ballot {
     }
 
      /** 
+
+
      * @dev Give 'voter' the right to vote on this ballot. May only be called by 'chairperson'.
      * @param voter address of voter
      */
